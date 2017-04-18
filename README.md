@@ -1,2 +1,2 @@
 # aetherunitedwebsite
-The website
+The website for Aether United. 
